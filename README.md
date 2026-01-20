@@ -1,0 +1,1 @@
+Number Guessing Game project for the freeCodeCamp Relational Database Certification.
